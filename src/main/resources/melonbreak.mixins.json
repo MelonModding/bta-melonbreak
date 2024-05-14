@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "watermelonmojito.melonbreak.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "PlayerControllerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
