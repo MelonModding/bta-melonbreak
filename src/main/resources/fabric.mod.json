@@ -6,7 +6,8 @@
   "name": "MelonBreak",
   "description": "Removes Block Break Cooldown",
   "authors": [
-    "WatermelonMojito"
+    "WatermelonMojito",
+		"LukeisStuff"
   ],
   "contact": {
     "homepage": "",
@@ -35,10 +36,9 @@
 		"melonbreak.mixins.json"
   ],
 
-  "depends": {
-		"minecraft": "~7.2-beta",
-    "fabricloader": ">=0.15.5"
-  },
+	"depends": {
+		"fabricloader": ">=0.15.5"
+	},
   "suggests": {
   }
 }
