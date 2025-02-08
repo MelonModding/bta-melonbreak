@@ -8,11 +8,11 @@ import turniplabs.halplibe.util.RecipeEntrypoint;
 
 
 public class MelonBreak implements ModInitializer, GameStartEntrypoint, RecipeEntrypoint {
-    public static final String MOD_ID = "examplemod";
+    public static final String MOD_ID = "melonbreak";
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
     @Override
     public void onInitialize() {
-        LOGGER.info("ExampleMod initialized.");
+        LOGGER.info("Melon Break initialized.");
     }
 
 	@Override
